@@ -1,1 +1,1 @@
-# VeriYapilari
+# Patika Dev Veri Yapıları Süreçleri
